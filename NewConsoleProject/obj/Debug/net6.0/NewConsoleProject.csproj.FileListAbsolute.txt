@@ -1,0 +1,15 @@
+C:\Users\harri\NewConsoleProject\bin\Debug\net6.0\NewConsoleProject.exe
+C:\Users\harri\NewConsoleProject\bin\Debug\net6.0\NewConsoleProject.deps.json
+C:\Users\harri\NewConsoleProject\bin\Debug\net6.0\NewConsoleProject.runtimeconfig.json
+C:\Users\harri\NewConsoleProject\bin\Debug\net6.0\NewConsoleProject.dll
+C:\Users\harri\NewConsoleProject\bin\Debug\net6.0\NewConsoleProject.pdb
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.csproj.AssemblyReference.cache
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.AssemblyInfoInputs.cache
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.AssemblyInfo.cs
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.dll
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\refint\NewConsoleProject.dll
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.pdb
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\NewConsoleProject.genruntimeconfig.cache
+C:\Users\harri\NewConsoleProject\obj\Debug\net6.0\ref\NewConsoleProject.dll
